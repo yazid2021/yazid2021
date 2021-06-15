@@ -1,26 +1,34 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
 
 @media screen and (max-width: 1000px) {
-    #content,
-    aside {
+    main #content{
         width: 100%;
         padding: 0;
+        margin: 0 auto;
     }
  }
- @media screen and (max-width: 992px) {
-    #content,
-    aside {
+ 
+
+ @media screen and (max-width: 1000px){
+     main aside{
         width: 100%;
-        padding: 0;
-    }
+        text-align: center;
+        
+     }
+     table{
+         margin: 0 auto;
+     }
+     figure img {
+         width: 50%;
+         text-align: center;
+         margin: 0 auto;
+     }
+     figure{
+         margin: 0 auto;
+     }
  }
- @media screen and (max-width: 600px) {
-    #content,
-    aside {
-        width: 100%;
-        padding: 0;
-    }
- }
+
+
 
 
 body{
@@ -40,7 +48,6 @@ nav a {
 
  .profile header, img{
     text-align: center;
-    display: inline;
     margin-left: 5px;
     width: 90%;
 }
