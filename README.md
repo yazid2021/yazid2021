@@ -6,6 +6,7 @@
 - Menambahkan assets
 - Menambahkan section
 <br>
+
 ## 20 Juli 2021  
 - Menambahkan footer dan contact
 - Menambahkan JavaScript
