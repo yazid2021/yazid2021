@@ -12,4 +12,4 @@
 - Menambahkan JavaScript  
 <br>
 
-**Update berikutnya akan menambahkan *responsive css dan animasinya*. Soon!
+**Update berikutnya akan menambahkan *responsive css dan animasinya*. Soon!**
