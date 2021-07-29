@@ -3,5 +3,4 @@ edit kodingan dari dicoding
 
 14 Juni 2021
 Belajar pemrograman web untuk pemula (progress 80%)
-  -- tes
-  * tes
+  * iya dah itu aja
