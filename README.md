@@ -1,6 +1,3 @@
-# yazid2021.github.io
+# Belajar pemrograman web untuk pemula (progress 85%)
 edit kodingan dari dicoding
-
-14 Juni 2021
-Belajar pemrograman web untuk pemula (progress 80%)
-  * iya dah itu aja
+* iya dah itu aja
