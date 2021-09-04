@@ -11,17 +11,16 @@ body {
     padding: 0;
 }
 
-main {
+.Content {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 nav {
     position: sticky;
-    top: auto;
-    z-index: auto;
-    
+    top: 0;
+    /*z-index: auto;  */
 }
 
 nav li a button {
@@ -80,7 +79,7 @@ button {
     border-radius: 5px;
     border: none;
     cursor: pointer;
-    transition: all 0.3s ease 0s;
+    transition: all 1.0s ease 0s;
     font-size: 15px;
 }
 
@@ -90,7 +89,7 @@ button:hover {
 
 .landing {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     flex-direction: row;
 }
 
@@ -100,7 +99,7 @@ button:hover {
     justify-content: center;
     width: 100%;
     padding: 100px;
-    margin-bottom: 10%;
+    margin-bottom: 30%;
 }
 
 .landing-text h1 {
@@ -110,19 +109,19 @@ button:hover {
     font-size: 2.5rem;
     font-weight: 600;
     text-shadow: 2px 2px 30px rgba(0,0,0,0.01);
-    margin: 0px;
+    
     line-height: 45px;
 }
 
 .landing-text h2 {
     color: coral;
     font-size: 2.5rem;
-    font-weight: 500;
-    text-shadow: 2px 2px 30px rgba(0,0,0,0.01);
+    font-weight: 100;
+    /*text-shadow: 2px 2px 30px rgba(0,0,0,0.01);*/
     margin: 0px;
     margin-top: 10px;
     line-height: 30px;
-}
+}    
 
 .landing-text p {
     color: #8a94a7c0;
@@ -153,11 +152,11 @@ button:hover {
     flex-direction: column;
     justify-content: flex-start;
     width: 100%;
-    padding: 37px;
+    padding: 10px;
     /*margin: 0px auto;*/
     text-align: center;
     color: #fff;
-    border-radius: 10px;
+    /*border-radius: 10px;*/
 }
 
 #Skills h1 {
