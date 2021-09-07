@@ -6,7 +6,7 @@ body {
 * {
     box-sizing: border-box;
     scroll-behavior: smooth;
-    font-family: 'Alliance No.2';
+    font-family: 'Alliance No.2', monospace;
     /*font-family: 'Fantasque Sans Mono', monospace;*/
     margin: 0;
     padding: 0;
